@@ -1,0 +1,53 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "bat@0.24.0": {
+      "last_modified": "2024-05-22T06:18:38Z",
+      "resolved": "github:NixOS/nixpkgs/3f316d2a50699a78afe5e77ca486ad553169061e#bat",
+      "source": "devbox-search",
+      "version": "0.24.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/hiia69kvpnlkkqrwa9q0v7rzyik91ip7-bat-0.24.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/hiia69kvpnlkkqrwa9q0v7rzyik91ip7-bat-0.24.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ihqxca088m35nf12z8w8z102x9cyjvya-bat-0.24.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/ihqxca088m35nf12z8w8z102x9cyjvya-bat-0.24.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/06ikrv8pnq7lf2f6rf4q970acf42f1x7-bat-0.24.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/06ikrv8pnq7lf2f6rf4q970acf42f1x7-bat-0.24.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ghqlmx96vqiywgr0bixsk78z0515drgj-bat-0.24.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/ghqlmx96vqiywgr0bixsk78z0515drgj-bat-0.24.0"
+        }
+      }
+    }
+  }
+}
