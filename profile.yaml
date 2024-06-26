@@ -1,0 +1,12 @@
+---
+version: v1
+type: profile
+name: github-profile
+context:
+  provider: github
+alert: "on"
+remediate: "off"
+repository:
+  - type: secret_scanning
+    def:
+      enabled: true
